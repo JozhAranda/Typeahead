@@ -1,0 +1,112 @@
+[
+  {
+	 	"id":1,
+        "name":"adellecharles",
+        "position":"VP Designer",
+        "phone":"(664)692-0432",
+        "cell_phone":"(664)563-6352",
+        "email":"adellecharles@viprl.com",
+        "linkedin":"https://www.linkedin.com/profile/adellecharles",
+        "photo":"img/faces/adellecharles.jpg",
+        "value":"?adellecharles"
+	}
+	,{
+		"id":2,
+        "name":"brad_frost",
+        "position":"VP Dev",
+        "phone":"(664)692-0432",
+        "cell_phone":"(664)563-6352",
+        "email":"brad_frost@viprl.com",
+        "linkedin":"https://www.linkedin.com/profile/brad_frost",
+        "photo":"img/faces/brad_frost.jpg",
+        "value":"?brad_frost"
+	}
+	,{
+		"id":3,
+        "name":"c_southam",
+        "position":"Lead Business",
+        "phone":"(664)692-0432",
+        "cell_phone":"(664)563-6352",
+        "email":"c_southam@viprl.com",
+        "linkedin":"https://www.linkedin.com/profile/c_southam",
+        "photo":"img/faces/c_southam.jpg",
+        "value":"?c_southam"
+	}
+	,{
+		"id":4,
+        "name":"chexee",
+        "position":"Project Manager",
+        "phone":"(664)692-0432",
+        "cell_phone":"(664)563-6352",
+        "email":"chexee@viprl.com",
+        "linkedin":"https://www.linkedin.com/profile/chexee",
+        "photo":"img/faces/chexee.jpg",
+        "value":"?chexee"
+	}
+	,{
+		"id":5,
+        "name":"flame_kaizar",
+        "position":"UX and Methodology",
+        "phone":"(664)692-0432",
+        "cell_phone":"(664)563-6352",
+        "email":"flame_kaizar@viprl.com",
+        "linkedin":"https://www.linkedin.com/profile/flame_kaizar",
+        "photo":"img/faces/flame_kaizar.jpg",
+        "value":"?flame_kaizar"
+	}
+	,{
+		"id":6,
+        "name":"joshuasortino",
+        "position":"Sr. Dev Web",
+        "phone":"(664)692-0432",
+        "cell_phone":"(664)563-6352",
+        "email":"joshuasortino@viprl.com",
+        "linkedin":"https://www.linkedin.com/profile/joshuasortino",
+        "photo":"img/faces/joshuasortino.jpg",
+        "value":"?joshuasortino"
+	}
+	,{
+        "id":7,
+        "name":"leemunroe",
+        "position":"CEO",
+        "phone":"(664)692-0432",
+        "cell_phone":"(664)563-6352",
+        "email":"leemunroe@viprl.com",
+        "linkedin":"https://www.linkedin.com/profile/leemunroe",
+        "photo":"img/faces/leemunroe.jpg",
+        "value":"?leemunroe"
+	}
+	,{
+        "id":8,
+        "name":"nettatheninja",
+        "position":"Semigod of Designer",
+        "phone":"(664)692-0432",
+        "cell_phone":"(664)563-6352",
+        "email":"nettatheninja@viprl.com",
+        "linkedin":"https://www.linkedin.com/profile/nettatheninja",
+        "photo":"img/faces/nettatheninja.jpg",
+        "value":"?nettatheninja"
+	}
+    ,{
+        "id":9,
+        "name":"teleject",
+        "position":"Titan of Dev Architect",
+        "phone":"(664)692-0432",
+        "cell_phone":"(664)563-6352",
+        "email":"teleject@viprl.com",
+        "linkedin":"https://www.linkedin.com/profile/teleject",
+        "photo":"img/faces/teleject.jpg",
+        "value":"?teleject"
+    }
+    ,{
+        "id":10,
+        "name":"walterstephanie",
+        "position":"Entrepreneur",
+        "phone":"(664)692-0432",
+        "cell_phone":"(664)563-6352",
+        "email":"walterstephanie@viprl.com",
+        "linkedin":"https://www.linkedin.com/profile/walterstephanie",
+        "photo":"img/faces/walterstephanie.jpg",
+        "value":"?walterstephanie"
+    }
+]

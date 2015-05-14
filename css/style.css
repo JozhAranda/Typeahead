@@ -1,0 +1,89 @@
+@font-face {
+    font-family: airplane;
+    /*src: url('../fonts/edmondsans/Edmondsans-Regular.otf');*/
+    src: url('../fonts/edmondsans/Edmondsans-Medium.otf');
+}
+
+body { 
+    background: #f9f9f9; 
+    font-family: airplane;
+}
+/*input text search*/
+.search_input {
+    border: 0 !important;
+    background: #fbfbfb;
+    padding: 20px;
+    box-shadow: 1px 1px 8px #ddd;
+}
+/*navbar center*/
+@media screen and (min-width:768px){
+    .navbar-brand-centered {
+        position: absolute;
+        left: 50%;
+        display: block;
+        width: 160px;
+        text-align: center;
+        background-color: #eee;
+    }
+    .navbar>.container .navbar-brand-centered, 
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -80px;
+    }
+}
+/*typeahead*/
+.twitter-typeahead {
+    width: 100%;
+}
+/*container*/
+.empty_space {
+    margin-top: 7% !important;
+}
+/*bonds*/
+.bond {
+    text-align: center;
+}
+.bond img {
+    max-height: 50px;
+}
+/*carrousel quote*/
+.quote {
+    color: rgba(0,0,0,.1);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/*-------------------------------*/
+/*    Carousel Fade Transition   */
+/*-------------------------------*/
+#carousel {
+    margin-top: 40px;
+}
+#fade-quote-carousel.carousel {
+  padding-bottom: 60px;
+}
+#fade-quote-carousel.carousel .carousel-inner .item {
+  opacity: 0;
+}
+#fade-quote-carousel.carousel .carousel-inner .active {
+  opacity: 1;
+}
+#fade-quote-carousel.carousel .carousel-indicators {
+  bottom: 10px;
+}
+#fade-quote-carousel.carousel .carousel-indicators > li {
+  background-color: #e84a64;
+  border: none;
+}
+#fade-quote-carousel blockquote {
+    text-align: center;
+    border: none;
+}
+#fade-quote-carousel .profile-circle {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+.quote {
+    margin-bottom: 15px !important;
+}
