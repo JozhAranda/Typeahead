@@ -1,1 +1,17 @@
 # Typeahead
+
+### Add htaccess
+
+```
+RewriteEngine on
+
+ErrorDocument 404 /404.html
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html
+```
